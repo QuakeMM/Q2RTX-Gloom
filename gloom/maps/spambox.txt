@@ -1,0 +1,46 @@
+
+	SPAMBOX
+
+Map Name:	Spam Box
+File Name:	spambox.bsp
+Version:	1.0
+Author:		Cataclaw
+E-Mail:		Cataclaw@Sympatico.ca
+Dedicated To:	Spammers everywhere
+Release Date:	Monday, January 13, 2003
+Editor:		Worldcraft 1.6
+
+	"In spam we trust"
+
+Installation:	Custom sounds are in quake2/gloom/sound/cataclaw/
+		The .Bsp file belongs in quake2/gloom/maps/
+Build Time:	3 hours, 45 minutes
+Compile Time:	Cataclaw's Box (1800xp+, 512mb RAM)
+				  	 QBSP:  3 seconds
+					 VIS:	14 seconds
+					 RAD:	18 seconds
+Custom Tex.:	No
+Custom Snds.:	Yes
+
+
+Thanks To:	Gloom2, Totalkarn and especially Spacebase for inspiring me to make Spam Box.
+
+Version info:
+
+	v1.0	- Initial release
+
+	
+Map Info:	So you're wondering what the f@$! this is. It's just a regular gloom map, perposely designed
+		for hectic games. Think the choke point in gloom2 with spacebase all over and a touch of totalkarn.
+		Why did i make this? If you'll check the GMD, you'll notice that i released on jan 13 (same release
+		date as this map) Jam. It's a large map that took weeks of hard work. I was wondering if a small map,
+		made in about 4 hours would be as popular or even more favored than the map that took weeks of work.
+		I got this idea after i saw how rsm01f was quite a popular map on Onecall for some time, and it was
+		nothing more than a damned speed map. Meanwhile my "real" maps, prison, garenab, etc. were never played
+		and more or less hated by all. So this is a little experiment. Will this relatively crappy, small map
+		outplay jam?
+
+
+
+Useless copyright stuff:
+Blah, blah, quake2 id software, blah blah, custom sounds, blah blah, don't do illegal stuff with this, blah blah.

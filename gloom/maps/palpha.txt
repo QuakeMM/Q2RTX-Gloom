@@ -1,0 +1,43 @@
+General .....................................................
+
+Title		: Point Alpha
+Filename	: palpha.bsp
+Date of Release	: 17.05.1999
+Author		: Aleksi Vaittinen
+Nick		: Tuomari Hiisi
+Email Address	: seppo.vaittinen@kolumbus.fi
+Website		: www.lukio.sipoo.fi/kotisivut/hiisi/
+Quakenet	: #tuomarit
+Description	: 
+Thanks to	: Tuomari Kromi for endless ideas,
+		  Tumu for endless whining about
+		  optimizations and fixes =),
+		  clan Tuomarit for testing,
+		  xxx,yyy,zzz,tms,jne,etc
+
+Play information ............................................
+
+Game		  : Quake 2 Gloom
+Size		  : Medium, for 8-16 people
+Single Player	  : Just enough for testing
+Eggs		  : 3
+Teleports	  : 3
+New Sounds	  : No
+New Graphics	  : Yes (Gloom Textures)
+New Models	  : No
+New Music	  : No
+Transparent Water : Yup
+
+Construction ................................................
+
+Base		  : Built from scratch
+Editors used	  : QuArK (Quake Army Knife), Qoole 2.50
+Known Bugs	  : Yes, crawling under your bed! (None)
+Construction Time : from dust till dawn
+Compile Computer  : Win98 P200MXX 32 Megabytes of RAM
+Qbsp		  : 27
+Vis Level 4	  : 308
+Light		  : 4762
+Other Info	  : txqbsp3 
+		    timvis3 -level 4
+		    arghrad -extra -bounce 40

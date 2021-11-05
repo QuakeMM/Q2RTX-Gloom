@@ -1,0 +1,366 @@
+{
+"sounds" "6"
+"sky" "unit8_"
+"classname" "worldspawn"
+"message" "Outlands haxed by Kai"
+"lightscale" "-7"
+}
+{
+"targetname" "enter"
+"classname" "info_player_start"
+"angle" "0"
+"origin" "-3824 1408 152"
+}
+{
+"origin" "-2060 984 84"
+"targetname" "t235"
+"classname" "info_notnull"
+}
+{
+"classname" "trigger_always"
+"target" "ap"
+}
+{
+"model" "*1"
+"spawnflags" "2304"
+"classname" "func_wall"
+}
+{
+"model" "*5"
+"classname" "func_wall"
+"spawnflags" "2048"
+}
+{
+"model" "*6"
+"classname" "func_wall"
+"spawnflags" "2048"
+}
+{
+"model" "*7"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*8"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*9"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*10"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*11"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*12"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*13"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*14"
+"classname" "func_wall"
+"spawnflags" "1792"
+}
+{
+"model" "*15"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*16"
+"classname" "func_wall"
+"spawnflags" "1792"
+}
+{
+"model" "*17"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*18"
+"spawnflags" "1792"
+"classname" "func_water"
+}
+{
+"model" "*31"
+"spawnflags" "2048"
+"mass" "800"
+"classname" "func_explosive"
+"targetname" "bpod2"
+}
+{
+"model" "*1"
+"spawnflags" "2304"
+"classname" "func_wall"
+}
+{
+"model" "*19"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*20"
+"spawnflags" "1792"
+"classname" "func_wall"
+}
+{
+"model" "*21"
+"classname" "func_wall"
+"spawnflags" "1792"
+}
+{
+"style" "1"
+"spawnflags" "0"
+"targetname" "ap"
+"classname" "func_areaportal"
+}
+{
+"style" "2"
+"targetname" "ap"
+"classname" "func_areaportal"
+}
+{
+"style" "3"
+"targetname" "ap"
+"classname" "func_areaportal"
+}
+{
+"model" "*36"
+"classname" "func_explosive"
+"mass" "300"
+"dmg" "1"
+}
+{
+"model" "*41"
+"angle" "90"
+"classname" "func_door"
+"team" "doorent"
+}
+{
+"model" "*42"
+"angle" "-1"
+"classname" "func_door"
+"team" "doorent"
+}
+{
+"model" "*43"
+"angle" "270"
+"classname" "func_door"
+"team" "doorent"
+}
+{
+"model" "*44"
+"classname" "func_door"
+"angle" "-1"
+"team" "door2"
+}
+{
+"model" "*45"
+"classname" "func_door"
+"angle" "270"
+"team" "door2"
+}
+{
+"model" "*46"
+"classname" "func_door"
+"angle" "90"
+"team" "door2"
+}
+{
+"model" "*47"
+"angle" "-1"
+"classname" "func_door"
+"team" "door4"
+}
+{
+"model" "*48"
+"angle" "270"
+"classname" "func_door"
+"team" "door4"
+}
+{
+"model" "*49"
+"angle" "90"
+"classname" "func_door"
+"team" "door4"
+}
+{
+"model" "*23"
+"target" "t1"
+"team" "doorout"
+"classname" "func_door"
+"angle" "-1"
+}
+{
+"model" "*24"
+"team" "doorout"
+"classname" "func_door"
+"angle" "270"
+}
+{
+"model" "*25"
+"team" "doorout"
+"classname" "func_door"
+"angle" "90"
+}
+{
+"model" "*50"
+"origin" "-2184 984 88"
+"_minlight" "0.3"
+"angle" "180"
+"target" "t235"
+"targetname" "t234"
+"classname" "turret_breach"
+"team" "turret"
+"spawnflags" "2304"
+"wait" "7.5"
+}
+{
+"model" "*51"
+"origin" "-2184 984 12"
+"_minlight" "0.3"
+"angle" "180"
+"team" "turret"
+"classname" "turret_base"
+"spawnflags" "2304"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-3085 1451 24"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-3071 1221 24"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-2983 1034 30"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "-2250 1127 9"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "-2254 1226 10"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "-2875 953 13"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "-2857 1260 13"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_ammo_depot"
+"origin" "-3111 1052 48"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "3362 785 -627"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "3350 515 -619"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "2821 -321 -627"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "2795 -576 -627"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "1887 233 -575"
+"angle" "-25"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "1891 304 -577"
+"angle" "138"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2026 127 -615"
+"angle" "-40"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2030 452 -632"
+"angle" "-147"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2070 655 -639"
+"angle" "-126"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2357 635 -639"
+"angle" "20"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2193 658 -597"
+"angle" "-64"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "2126 76 -600"
+"angle" "28"
+"spawnflags" "0"
+}
+{
+"classname" "monster_healer"
+"origin" "2848 -444 -639"
+"angle" "0"
+"spawnflags" "0"
+}

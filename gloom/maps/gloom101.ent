@@ -1,0 +1,329 @@
+{
+"classname" "worldspawn"
+"sounds" "3"
+"gravity" "800"
+"message" "Gloom 101b\nby -=- Llurk -=-"
+}
+{
+"classname" "monster_spiker"
+"origin" "423 -225 -79"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "419 -39 -63"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "214 -425 -63"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "26 -417 -79"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "534 -225 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "423 -412 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "560 -392 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "591 -290 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "471 -332 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "484 -514 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "350 232 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "583 313 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "437 154 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "465 72 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "581 148 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "539 246 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "130 -130 -143"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_gasser"
+"origin" "47 -714 88"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_gasser"
+"origin" "47 -763 88"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "-417 -732 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "-298 -680 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "43 -674 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_spiker"
+"origin" "-67 -851 -127"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "-1075 -872 -352"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_gasser"
+"origin" "-116 -603 8"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "225 -1246 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "303 -1152 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-340 -951 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-232 -826 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-65 -1015 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-230 -1062 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-356 -1042 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_obstacle"
+"origin" "-209 -950 -191"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "2195 -424 -114"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "2266 -740 -114"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "2153 -298 -114"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_ammo_depot"
+"origin" "2252 -428 -167"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_healer"
+"origin" "-642 -487 -191"
+"angle" "90"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "-400 -1145 -35"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "-1232 -792 -360"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "-768 -593 32"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "monster_cocoon"
+"origin" "53 -1148 -179"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2277 -441 -359"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2021 -573 -295"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2323 -206 -295"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2270 -734 -295"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"classname" "misc_turret"
+"origin" "2133 -641 -146"
+"angle" "135"
+"spawnflags" "64"
+}
+{
+"classname" "misc_turret"
+"origin" "2150 -363 -178"
+"angle" "-172"
+"spawnflags" "64"
+}
+{
+"classname" "misc_turret"
+"origin" "2145 -468 -370"
+"angle" "0"
+"spawnflags" "0"
+}
+{
+"model" "*1"
+"classname" "func_door"
+"angle" "-1"
+"health" "0"
+"speed" "100"
+"lip" "8"
+"dmg" "2"
+"_minlight" "0"
+}
+{
+"model" "*3"
+"classname" "func_door"
+"angle" "90"
+}
+{
+"model" "*5"
+"classname" "func_door"
+"angle" "-1"
+}
+{
+"model" "*7"
+"classname" "func_door"
+"angle" "270"
+"health" "0"
+"speed" "100"
+"lip" "8"
+"dmg" "2"
+}

@@ -1,0 +1,531 @@
+{
+"skyaxis" "0 0 2.1"
+"skyrotate" "666"
+"sky" "desert3"
+"classname" "worldspawn"
+}
+{
+"origin" "320 -192 -96"
+"classname" "info_player_start"
+}
+{
+"origin" "1164 -192 -264"
+"angle" "180"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-780 -384 -312"
+"classname" "monster_cocoon"
+}
+{
+"origin" "256 -320 -112"
+"accel" "0"
+"style" "0"
+"model" "models/mapmodels/psylo/mech.md2"
+"angle" "90"
+"classname" "misc_md2"
+}
+{
+"origin" "256 -64 -112"
+"accel" "0"
+"style" "0"
+"model" "models/mapmodels/psylo/stalker.md2"
+"angle" "270"
+"classname" "misc_md2"
+}
+{
+"origin" "1200 -192 -224"
+"noise" "psylo/evil.wav"
+"volume" "1"
+"attenuation" "-1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "1448 64 -232"
+"noise" "psylo/evil.wav"
+"volume" "1"
+"attenuation" "-1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "1448 -432 -232"
+"noise" "psylo/evil.wav"
+"volume" "1"
+"attenuation" "-1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "968 -432 -232"
+"noise" "psylo/evil.wav"
+"volume" "1"
+"attenuation" "-1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "968 64 -232"
+"noise" "psylo/evil.wav"
+"volume" "1"
+"attenuation" "-1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "86 -114 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "86 -270 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "1270 -192 -262"
+"angle" "157"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1268 -88 -262"
+"angle" "180"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1268 -300 -262"
+"angle" "180"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "170 242 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "170 398 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "170 -782 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "170 -626 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "128 132 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "108 -564 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-108 -696 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-96 324 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-108 80 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-96 -484 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "372 -488 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "376 16 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "380 -520 88"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-348 240 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-768 204 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-364 -660 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-768 -660 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-776 -232 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-284 -188 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"model" "*1"
+"message" "burns in hell"
+"dmg" "9999"
+"spawnflags" "4"
+"classname" "trigger_hurt"
+}
+{
+"origin" "96 -192 -104"
+"noise" "psylo/laugh.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "376 92 84"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-628 -196 -320"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-768 -340 -320"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-756 -40 -320"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-532 -196 304"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "264 -196 -316"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "404 -340 -316"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "392 -40 -316"
+"noise" "psylo/fire.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"origin" "-692 -576 -312"
+"classname" "monster_cocoon"
+}
+{
+"origin" "-328 -576 -312"
+"classname" "monster_cocoon"
+}
+{
+"origin" "-432 192 -312"
+"classname" "monster_cocoon"
+}
+{
+"origin" "-588 -488 -312"
+"classname" "monster_cocoon"
+}
+{
+"model" "*2"
+"style" "0"
+"_minlight" "0"
+"mass" "200"
+"dmg" "0"
+"health" "0"
+"classname" "func_explosive"
+}
+{
+"model" "*3"
+"style" "0"
+"_minlight" "0"
+"mass" "200"
+"dmg" "0"
+"health" "0"
+"classname" "func_explosive"
+}
+{
+"model" "*4"
+"style" "0"
+"_minlight" "0"
+"mass" "200"
+"dmg" "0"
+"health" "0"
+"classname" "func_explosive"
+}
+{
+"model" "*5"
+"style" "0"
+"_minlight" "0"
+"mass" "200"
+"dmg" "0"
+"health" "0"
+"classname" "func_explosive"
+}
+{
+"model" "*6"
+"style" "0"
+"_minlight" "0"
+"mass" "200"
+"dmg" "0"
+"health" "0"
+"classname" "func_explosive"
+}
+{
+"origin" "-84 -626 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-84 242 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-242 -626 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-242 242 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-86 -114 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-86 -270 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-242 -114 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-242 -270 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-842 -114 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-842 -270 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-842 -626 -48"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "-842 242 -46"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "240 -948 -220"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "240 576 -224"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "476 -640 -88"
+"light" "300"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "476 252 -84"
+"light" "300"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "476 256 112"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "476 -644 100"
+"light" "300"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "644 -192 356"
+"light" "300"
+"_color" "1.000 0.000 0.000"
+"style" "11"
+"_fade" "1"
+"classname" "light"
+}
+{
+"origin" "-266 -270 374"
+"light" "250"
+"style" "6"
+"classname" "light"
+}
+{
+"origin" "-266 -114 372"
+"light" "250"
+"style" "1"
+"classname" "light"
+}
+{
+"origin" "128 -384 -104"
+"noise" "psylo/torment.wav"
+"volume" "1"
+"attenuation" "1"
+"spawnflags" "1"
+"classname" "target_speaker"
+}

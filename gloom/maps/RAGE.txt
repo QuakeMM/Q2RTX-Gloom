@@ -1,0 +1,91 @@
+	
+
+					The RAGE 
+                 
+2/12/99
+
+======================= Map Information ========================
+ Title       : The RAGE
+ Author      : Tyler Buser (CastorTroy)
+ Web Page    : www.rdr.net/~curly/eq/
+ Email       : curly@rdr.net
+ Duty        : Over decades humans and spiders have been at war.
+               The spiders and their countless army swarm the 
+               humans. But, the humans withhold the technology to
+               overcome these odds. In a last ditch effort, where 
+               the surface of Koset has been raged of endless battles
+               you are to take control of the planet. To do that you
+               must rid the other of the Defence Compound located in
+               Central City. The outcome of this battle will greatly 
+               affect the outcome of the war. 
+               
+======================= Play Information ======================== 
+
+
+ 
+ Single Player     : No
+ Cooperative       : No
+ Deathmatch        : No
+ Gloom             : Yes
+ New Sounds        : No
+ New Graphics      : No
+ New Models        : No
+ New Music         : No
+ Transparent Water : No
+
+======================= Construction ======================== 
+
+ Base              : Built from scratch
+ Editors used      : WorldCraft
+ Known Bugs        : None
+ Construction Time : week + 3/4 days
+ Compile Computer  : Win98 P2 400 64 Megs RAM
+ Qbsp              : 10 secs
+ Vis Level 4       : 40 secs
+ Light             : 505 secs
+ Other Info        : None
+
+======================= Installation ======================== 
+
+ This archive contains 2 files.
+
+        ========Basic ========
+	    RAGE.txt	    
+	======================
+
+	
+Thanks to: Team Reaction, Wiseman, Cyber_ASS, and Hellbringer
+
+==============================================================
+Copyright Notice: 
+
+THIS LEVEL MAY NOT BE DISTRIBUTED FOR COMMERCIAL PURPOSES. 
+IF YOU PAID IN ANY WAY TO GET THIS LEVEL, YOU ARE BEING RIPPED OFF
+AND SO AM I - REPORT THIS TO curly@rdr.net
+
+You are free to copy this file for personal use, or to make it 
+available for redistribution in its electronic format, provided that: 
+(1) it remains wholly unedited and unmodified, 
+(2) no fee or compensation is charged for copies of or access to this
+    file, and
+(3) this copyright notice and the following disclaimer remain attached.
+
+Disclaimer: 
+This file is provided by the author "as is", and any express or implied
+warranties, including, but not limited to, the implied warranties of
+merchantability and fitness for a particular purpose are disclaimed. In
+absolutely no event shall the author be liable for any direct, indirect,
+incidental, special, exemplary, or consequential damages (including, but
+not limited to, procurement of substitute goods or services; loss of
+use, data, or profits; or business interruption) however caused and on
+any theory of liability, whether in contract, strict liability, or tort
+(including negligence or otherwise) arising in any way out of the use of
+the information herein contained, even if advised of the possibility of
+such damage. 
+
+Please respect my position as to not allowing distribution on a cd-rom
+of any and all types.Certain companies (Actura and Head Games) tend to
+"net scrape" and then profit from the work of others without obtaining
+permission.
+Copyright ©1998 Tyler "CastorTroy" Buser.
+®All rights reserved.

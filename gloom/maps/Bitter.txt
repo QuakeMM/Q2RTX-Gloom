@@ -1,0 +1,49 @@
+	
+
+					Bitter 
+                 
+2/4/99
+
+======================= Map Information ========================
+ Title       : Bitter
+ Author      : Tyler Bsuer (CastorTroy)
+ Web Page    : www.rdr.net/~curly/eq/
+ Email       : curly@rdr.net
+ Description : Good sized human base with a maze to the spider base
+
+======================= Play Information ======================== 
+
+
+ 
+ Single Player     : No
+ Cooperative       : No
+ Deathmatch        : No
+ Gloom             : Yes
+ New Sounds        : No
+ New Graphics      : No
+ New Models        : No
+ New Music         : No
+ Transparent Water : No
+
+======================= Construction ======================== 
+
+ Base              : Built from scratch
+ Editors used      : WorldCraft
+ Known Bugs        : None
+ Construction Time : 2 days
+ Compile Computer  : Win98 P2 400 64 Megs RAM
+ Qbsp              : N/A
+ Vis Level 4       : N/A
+ Light             : N/A
+ Other Info        : None
+
+======================= Installation ======================== 
+
+ This archive contains 2 files.
+
+        ========Basic ========
+	    bitter.txt	    
+	======================
+
+	
+Thanks to: Team Reaction, Wiseman, and more thx to Rex

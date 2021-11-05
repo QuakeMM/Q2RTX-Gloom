@@ -1,0 +1,555 @@
+{
+"classes" "1572993"
+"sky" "space1"
+"_sun2_diffuse" "35"
+"_sun2_color" "1.0 0.7 0.5"
+"_sun2_angle" "225 -40"
+"_sun2_light" "60"
+"_sun_color" "0.5 0.7 1.0"
+"_sun_diffuse" "35"
+"_sun_angle" "75 -30"
+"_sun_light" "50"
+"_sun_surface" "1"
+"_sun_ambient" "10"
+"message" "planet gloom (by Συμ)"
+"classname" "worldspawn"
+}
+{
+"angle" "180"
+"origin" "1912 1444 1048"
+"classname" "info_player_start"
+}
+{
+"origin" "944 1204 1312"
+"classname" "monster_cocoon"
+}
+{
+"angles" "12 180 0"
+"origin" "2320 1444 1432"
+"classname" "info_player_intermission"
+}
+{
+"origin" "944 1684 1312"
+"classname" "monster_cocoon"
+}
+{
+"angle" "180"
+"origin" "1152 1352 1424"
+"classname" "monster_cocoon"
+}
+{
+"angle" "180"
+"origin" "1152 1536 1424"
+"classname" "monster_cocoon"
+}
+{
+"model" "*1"
+"target" "td1"
+"classname" "trigger_multiple"
+}
+{
+"model" "*2"
+"target" "td1"
+"classname" "trigger_multiple"
+}
+{
+"style" "1"
+"team" "ap1"
+"targetname" "ta1"
+"classname" "func_areaportal"
+}
+{
+"style" "2"
+"team" "ap1"
+"targetname" "ta1"
+"classname" "func_areaportal"
+}
+{
+"style" "3"
+"team" "ap1"
+"targetname" "ta1"
+"classname" "func_areaportal"
+}
+{
+"style" "4"
+"team" "ap1"
+"targetname" "ta1"
+"classname" "func_areaportal"
+}
+{
+"model" "*3"
+"targetname" "td1"
+"target" "ta1"
+"angle" "90"
+"sounds" "3"
+"lip" "1"
+"wait" "2"
+"speed" "40"
+"team" "d1"
+"classname" "func_door"
+}
+{
+"model" "*4"
+"targetname" "td1"
+"angle" "270"
+"sounds" "3"
+"lip" "1"
+"wait" "2"
+"speed" "40"
+"team" "d1"
+"classname" "func_door"
+}
+{
+"spawnflags" "4"
+"angle" "315"
+"origin" "934 1534 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"spawnflags" "4"
+"angle" "45"
+"origin" "934 1354 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"spawnflags" "4"
+"angle" "90"
+"origin" "1024 1316 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"spawnflags" "4"
+"angle" "270"
+"origin" "1024 1572 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"spawnflags" "4"
+"angle" "225"
+"origin" "1114 1534 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"spawnflags" "4"
+"angle" "135"
+"origin" "1114 1354 1678"
+"targetname" "hspawn"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*5"
+"mass" "32"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"targetname" "killspawns"
+"angle" "-1"
+"spawnflags" "9"
+"origin" "1026 1444 1932"
+"classname" "target_laser"
+}
+{
+"angle" "180"
+"origin" "712 1584 1128"
+"classname" "monster_spiker"
+}
+{
+"angle" "180"
+"origin" "960 1444 1408"
+"classname" "monster_healer"
+}
+{
+"angle" "180"
+"origin" "712 1304 1128"
+"classname" "monster_spiker"
+}
+{
+"_color" "0.5 1.0 0.5"
+"light" "40"
+"_wait" "0.2"
+"origin" "1136 1444 832"
+"classname" "light"
+}
+{
+"angle" "180"
+"origin" "1056 1444 1232"
+"classname" "monster_spiker"
+}
+{
+"model" "*6"
+"target" "killedspawns"
+"classes" "4194559"
+"health" "5000"
+"dmg" "90"
+"mass" "500"
+"classname" "func_explosive"
+}
+{
+"target" "spawns"
+"targetname" "killedspawns"
+"count" "5"
+"health" "1000"
+"classname" "trigger_relay"
+}
+{
+"classname" "func_timer"
+"wait" "900"
+"target" "killspawns"
+}
+{
+"classname" "target_xmins"
+"target" "spawns"
+}
+{
+"classname" "trigger_counter"
+"spawnflags" "1"
+"count" "2"
+"targetname" "spawns"
+"target" "killspawns"
+}
+{
+"message" "the planet got purified\n"
+"classname" "on_humans_win"
+}
+{
+"message" "another failed attempt to bring law and order to this spider planet\n"
+"classname" "on_aliens_win"
+}
+{
+"model" "*7"
+"mass" "25"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"model" "*8"
+"mass" "32"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"model" "*9"
+"mass" "32"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"model" "*10"
+"mass" "32"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"model" "*11"
+"mass" "32"
+"decel" "0.6"
+"accel" "0.3"
+"speed" "0.8"
+"classes" "255"
+"classname" "trigger_fog"
+}
+{
+"model" "*12"
+"targetname" "t4"
+"dmg" "1"
+"spawnflags" "2"
+"classname" "trigger_hurt"
+}
+{
+"classname" "light"
+"origin" "837 1444 1414"
+"_wait" "0.02"
+"light" "15"
+"_color" "0.5 0.5 1.0"
+}
+{
+"classname" "light"
+"origin" "1025 1444 1458"
+"_wait" "0.02"
+"light" "16"
+"_color" "0.5 0.5 1.0"
+}
+{
+"classes" "16711935"
+"origin" "1008 1440 1876"
+"classname" "misc_detector"
+}
+{
+"targetname" "spawns"
+"angle" "180"
+"classes" "16711935"
+"origin" "1068 1444 1698"
+"classname" "misc_turret"
+}
+{
+"targetname" "t4"
+"angle" "-2"
+"spawnflags" "65"
+"origin" "1026 1444 2815"
+"classname" "target_laser"
+}
+{
+"light" "80"
+"_color" "0 0 1"
+"origin" "1176 1492 1720"
+"classname" "light"
+}
+{
+"light" "80"
+"_color" "0 0 1"
+"origin" "1176 1396 1720"
+"classname" "light"
+}
+{
+"model" "*13"
+"targetname" "killspawns"
+"count" "500"
+"wait" "3"
+"spawnflags" "10"
+"classname" "trigger_repair"
+}
+{
+"targetname" "foo"
+"noise" "world/combat2.wav"
+"origin" "864 1824 2336"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "8"
+"targetname" "killspawns"
+"origin" "1024 1688 1792"
+"classname" "target_kill"
+}
+{
+"model" "*14"
+"classname" "trigger_healer"
+"spawnflags" "118"
+}
+{
+"target" "ty10"
+"targetname" "ty8"
+"origin" "60 1766 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty11"
+"targetname" "ty10"
+"origin" "-36 1382 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty12"
+"targetname" "ty11"
+"origin" "-36 934 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty13"
+"targetname" "ty12"
+"origin" "60 742 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty14"
+"targetname" "ty13"
+"origin" "252 614 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty15"
+"targetname" "ty14"
+"origin" "476 614 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty16"
+"targetname" "ty15"
+"origin" "636 774 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty17"
+"targetname" "ty16"
+"origin" "636 998 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty18"
+"targetname" "ty17"
+"origin" "540 1222 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty21"
+"targetname" "ty18"
+"origin" "444 1446 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty22"
+"targetname" "ty21"
+"origin" "444 1670 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty23"
+"targetname" "ty22"
+"origin" "572 1862 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty6"
+"targetname" "ty5"
+"origin" "1340 2438 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty7"
+"targetname" "ty6"
+"origin" "828 2470 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty8"
+"targetname" "ty7"
+"origin" "348 2182 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty24"
+"targetname" "ty23"
+"origin" "732 1990 1808"
+"classname" "path_corner"
+}
+{
+"targetname" "ty24"
+"target" "ty0"
+"origin" "988 2086 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty1"
+"targetname" "ty0"
+"origin" "1212 2118 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty2"
+"targetname" "ty1"
+"origin" "1500 2054 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty3"
+"targetname" "ty2"
+"origin" "1628 2086 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty4"
+"targetname" "ty3"
+"origin" "1692 2182 1808"
+"classname" "path_corner"
+}
+{
+"target" "ty5"
+"targetname" "ty4"
+"origin" "1628 2278 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx0"
+"targetname" "tx8"
+"origin" "1022 768 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx8"
+"targetname" "tx7"
+"origin" "1100 528 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx7"
+"targetname" "tx6"
+"origin" "1308 442 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx6"
+"targetname" "tx5"
+"origin" "1622 534 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx5"
+"targetname" "tx4"
+"origin" "1832 816 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx4"
+"targetname" "tx3"
+"origin" "1872 1250 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx3"
+"targetname" "tx2"
+"origin" "1794 1434 1808"
+"classname" "path_corner"
+}
+{
+"target" "tx2"
+"targetname" "tx1"
+"origin" "1628 1478 1808"
+"classname" "path_corner"
+}
+{
+"targetname" "tx0"
+"target" "tx1"
+"origin" "1494 1404 1808"
+"classname" "path_corner"
+}
+{
+"model" "*15"
+"target" "ty6"
+"speed" "50"
+"dmg" "0"
+"spawnflags" "1"
+"classname" "func_train"
+}
+{
+"model" "*16"
+"target" "tx1"
+"speed" "50"
+"dmg" "0"
+"spawnflags" "1"
+"classname" "func_train"
+}
+{
+"model" "*17"
+"classname" "trigger_healer"
+"spawnflags" "118"
+}

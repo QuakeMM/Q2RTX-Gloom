@@ -1,0 +1,52 @@
+Title 			: GloomXL
+
+File Name 		: gloomxl.bsp
+
+Author 			: Graeme "ProdigyXL" Timmins
+
+E-Mail  		: pault@modempool.com
+
+Homepage		: http://www.planetquake.com/xl
+
+Describtion 		: Gloom level
+
+Author work		: Getting to long to list here, you can find all
+			  my other work at my homepage.
+
+Additional Credits	: Id software, of course of course
+			  The QBoard gang
+			  ArghRAD the best RAD compiler, thanks Tim!
+			 
+================================================================
+
+* Play Information *
+
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+
+
+Base                    : New level from scratch
+Editor(s) used          : WorldCraft 1.6 - Registered
+Known Bugs              : Sometimes the flag in the main room disappears from different
+			  angles.	  
+Build Time              : Over 6 months of work here and there.
+Texture Wad used        : Quake II textures (Base1, and Waste)
+Compile machine         : Althon 500
+			  128 RAM
+
+Place this map in your drive:\quake2\baseq2\maps directory.
+
+Tired of playing all the ugly maps that Gloom has become known for, I tried to something of better quality.  I think the results are pretty good.  Although admittidly its not the sexiest map on the planet, it certianlly, in my opinion, blows everything else out of the water.
+
+E-mail me all you comments and suggestions, as with feedback, my maps can only get
+better.  Thanks for the download.
+
+* Copyright / Permissions *
+
+Copyright Notice: 
+
+THIS LEVEL MAY NOT BE DISTRIBUTED FOR COMMERCIAL PURPOSES. 
+IF YOU PAID IN ANY WAY TO GET THIS LEVEL, YOU ARE BEING RIPPED OFF!
+DON'T LET THAT HAPPEN TO OTHERS! - REPORT THIS TO pault@modempool.com

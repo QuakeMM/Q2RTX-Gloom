@@ -1,0 +1,16 @@
+First Blood by Nunca
+--------------------
+[firstblood.bsp]
+Made: March 2003 with QuarK 6
+
+My first completed map for Q2Gloom. Probably best suited for 6 vs 6,
+due to it´s small size. 
+
+Comments: panoptikon@yahoo.com  
+
+Credits: Godmil,Elden (betatesting)
+	 a_drunk_bastard (QuarKhelp)
+	 Llurk (entityhelp)
+	 R1CH (compiling hints)
+---------------------
+.

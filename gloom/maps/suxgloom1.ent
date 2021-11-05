@@ -1,0 +1,302 @@
+{
+"sky" "unit1_"
+"message" "The Warehaus by Clan [sUx]\nFIXED [SUXY] MAP LOOP BUG"
+"sounds" "0"
+"classname" "worldspawn"
+}
+{
+"model" "*1"
+"sounds" "2"
+"angle" "-2"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "400"
+"classname" "func_door"
+}
+{
+"model" "*2"
+"sounds" "2"
+"angle" "-2"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "400"
+"classname" "func_door"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-208 -1668 60"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-208 -1668 184"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-4 -2032 60"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-4 -2032 180"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "252 -2128 60"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "252 -2128 184"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-112 -1924 60"
+"classname" "light"
+}
+{
+"_color" "1.00 0.00 0.00"
+"light" "300"
+"origin" "-112 -1924 180"
+"classname" "light"
+}
+{
+"angle" "45"
+"origin" "-68 -1988 152"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "90"
+"origin" "-208 -1716 24"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "0"
+"origin" "212 -2128 24"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "45"
+"origin" "120 -1800 8"
+"classname" "misc_turret"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "164 -1008 168"
+"classname" "target_speaker"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "164 -1264 168"
+"classname" "target_speaker"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "1660 -784 168"
+"classname" "target_speaker"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "1660 -1040 168"
+"classname" "target_speaker"
+}
+{
+"model" "*3"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"model" "*4"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"model" "*5"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"model" "*6"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"style" "1"
+"_color" "1.00 0.29 0.00"
+"light" "200"
+"origin" "128 -504 300"
+"classname" "light"
+}
+{
+"style" "1"
+"_color" "1.00 0.29 0.00"
+"light" "200"
+"origin" "608 -504 300"
+"classname" "light"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "912 -1760 168"
+"classname" "target_speaker"
+}
+{
+"attenuation" "1"
+"spawnflags" "1"
+"volume" "1.000000"
+"noise" "world/wind2.wav"
+"origin" "656 -1760 168"
+"classname" "target_speaker"
+}
+{
+"model" "*7"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"model" "*8"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"angle" "0"
+"origin" "672 2112 288"
+"classname" "monster_cocoon"
+}
+{
+"angle" "270"
+"origin" "1104 1232 288"
+"classname" "monster_cocoon"
+}
+{
+"angle" "135"
+"origin" "1088 2416 288"
+"classname" "monster_cocoon"
+}
+{
+"angle" "0"
+"origin" "672 1232 280"
+"classname" "monster_healer"
+}
+{
+"angle" "0"
+"origin" "1064 1464 256"
+"classname" "monster_spiker"
+}
+{
+"angle" "0"
+"origin" "1048 2192 320"
+"classname" "monster_spiker"
+}
+{
+"model" "*9"
+"sounds" "2"
+"angle" "-2"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "400"
+"classname" "func_door"
+}
+{
+"style" "1"
+"_color" "1.00 0.29 0.00"
+"light" "200"
+"origin" "1378 744 34"
+"classname" "light"
+}
+{
+"model" "*10"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"model" "*11"
+"sounds" "2"
+"angle" "-1"
+"dmg" "0"
+"lip" "8"
+"wait" "3"
+"speed" "300"
+"classname" "func_door"
+}
+{
+"angle" "90"
+"origin" "-1024 -1144 312"
+"classname" "info_player_start"
+}
+{
+"style" "1"
+"_color" "1.00 0.29 0.00"
+"light" "200"
+"origin" "1344 -2040 44"
+"classname" "light"
+}
+{
+"style" "1"
+"_color" "1.00 0.29 0.00"
+"light" "200"
+"origin" "1992 -1472 44"
+"classname" "light"
+}

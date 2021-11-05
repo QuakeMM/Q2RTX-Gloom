@@ -1,0 +1,65 @@
+[]=========================================================================[]
+
+Title:			SWars Gloom
+Version:		Beta 2
+Release date:		2009-05-31
+Filename:		swg_beta2.bsp
+Author:			DeeKae
+Email address:		deekae@gmx.de
+Other levels by author:	"Depleted1" RC2 for Q2 Gloom (depleted1_rc2.bsp)
+			"Station SB-078" for Q2 Gloom (sb078.bsp)
+
+-----------------------------------------------------------------------------
+
+Description:		It's a remake of Gloom(.bsp) with a fresh new look.
+			
+-----------------------------------------------------------------------------
+
+Game:			Quake 2
+Mod:			Gloom
+Single Player:		No
+Cooperative:		No
+Deathmatch:		No
+New Textures:		Yes
+New Sounds:		Yes
+Known bugs:		None
+
+-----------------------------------------------------------------------------
+
+Installation:		Extract into your Q2\gloom directory (keep folders).
+
+-----------------------------------------------------------------------------
+
+Editors used:		GtkRadiant 1.4.0, Worldcraft 1.6
+Add. Tools:		Q2Beaver 4.0.0 (beta), Wally 1.55b, WinMapRid 1.5,
+			FileListFinder
+Compilers:		KMqbsp3 1.13a by Knightmare,
+			GDDqvis3 v1.03 by Geoffrey DeWan,
+			ArghRad v3.00 Beta 9 by Tim "Argh!" Wright
+Compile Time:		BSP + VIS + RAD = 1140 seconds (19:00 minutes)
+ 			
+-----------------------------------------------------------------------------
+
+Credits/Thanks to:	Kris Siuda for the original map "Infested caverns",
+			Dr. Strangelove (_Darth_Vader_@web.de) for the 
+			SWars texture sets and kind permission to convert
+			and use them in my projects,
+			id Software for Quake 2,
+			Team Reaction for Gloom,
+			R1CH for new DLLs/Map Validator/FileListFinder,
+			tachikoma for improving the gloom DLL,
+			Knightmare for KMqbsp 1.13a and the caulk texture,
+			Geoffrey DeWan for GDDqvis3 v1.03,
+			Tim "Argh!" Wright for ArghRad v3.00 Beta 9,
+			Death Magnet (aka LRJ) for WinMapRid 1.5
+
+Special thanks to:	zorg and Echon and all the other admins that are still 
+			running servers for this old but unique mod.
+			
+-----------------------------------------------------------------------------
+
+You MAY distribute this level through any electronic network (e.g. internet)
+as long as you include this file and leave the archive intact. You are NOT 
+allowed to take money for this.
+
+[]=========================================================================[]

@@ -1,0 +1,22 @@
+				:===: Assault! :===: 
+			  	  Quake2 Gloom Map
+				       README
+-Date: Feb. 4, 2001
+-Author: Cataclaw
+-File Name: assault.bsp
+-Version: 2.0
+
+-Build Time: 1 day
+-Complete Compile: (Full vis, Arghrad (thanks to R1CH))
+-Editor(s) Used: WorldCraft v1.6 shareware
+-Compiled by: R1CH (1.0 - time: less than 1 hour)
+ 	      Ankka (2.0 - time: less than 1 hour)
+
+-For use with the "Gloom" mod ((c)TeamReaction) for quake2
+
+-The .BSP is standalone, around 30 textures used, all are id(c) baseq2 textures with the exception of the "snow2" sky, commonly used for gloom. 
+
+-Story: No story.. heh. Just kill kill kill!
+
+-Misc: This is a small map, no real story or goal, just have fun :) The map slightly favors humans even with the dark outside.. To balance gameplay, spiders (specifically stalkers) can hit a button in the human base which triggers an explosion and floods the lower half of the human base with slime. Slime will remain for 12 minutes before the slime starts to drain/lower.
+

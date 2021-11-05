@@ -1,0 +1,27 @@
+	
+
+Map Name:	SPAMBOX III
+Version:	1.0
+Author:		Cataclaw
+E-Mail:		Cataclaw@Cataclaw.com
+Release Date:	16/12/2004
+Editor:		Worldcraft 1.6 Registered
+Filename:	spambox3.bsp
+
+Installation:	The .bsp file belongs in quake2/gloom/maps/
+		The .wal and .png files belong in quake2/gloom/textures/cataclaw/
+
+Build Time:	10 hours (including texture making)
+Compile Time:	83 seconds
+
+Gloom 1.3x:	Yes
+Gloom 1.2x:	Yes
+
+Custom Tex.:	Yes
+Custom Snds.:	No
+
+Thanks To:	Me, myself and I. I kept this one under wraps.
+
+Map Info:	The third map in the spambox series. Once again, the theme is "spam".
+		The map is small and somewhat cramped. The only viable bases are the
+		starting bases and the middle room (if properly defended).
