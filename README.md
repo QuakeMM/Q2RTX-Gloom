@@ -18,10 +18,13 @@ C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can vi
 Savvy
 Bakerman84
 
-More to come soon
-
-![image](https://user-images.githubusercontent.com/74773831/140613254-5129a976-d762-4483-844e-2a98a3254043.png)
+More to come soon in line with Q2RTX 1.6
 
 
+![quake162](https://user-images.githubusercontent.com/74773831/185340900-5b19b6e7-be81-4a32-968c-9c6e922aca61.jpg)
+
+![quake025](https://user-images.githubusercontent.com/74773831/185341464-8ed4a6c1-ffce-43cf-a6e1-445646358996.jpg)
+
+![quake091](https://user-images.githubusercontent.com/74773831/185341569-8067fe8a-373e-4e98-b4b0-9c33369e77ee.jpg)
 
 
