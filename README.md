@@ -9,14 +9,16 @@ Maps - The most recent collection of Gloom maps
 Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
 
 *Please see Releases for download*
+You can also find non-RTX versions of the client under releases
 
-Find more about Gloom on our Discord server- 
-https://discord.gg/r26VQghRpH
+Did you play Gloom all those years ago? Reconnect to all the old boys from Gloom on our Discord server- 
+https://discord.gg/FFdfVWHFKV
 
 Many thanks to - 
-C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can view GloomRTX in action
-Savvy
-Bakerman84
+* C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can view GloomRTX in action
+* Savvy
+* Bakerman84
+* BSPIT, DD, OshKosh and others on Discord
 
 More to come soon in line with Q2RTX 1.6
 
