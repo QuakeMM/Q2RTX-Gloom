@@ -8,13 +8,16 @@ File contains all you need to get up and running with the latest version of-
 * Maps - The most recent collection of Gloom maps
 * Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
 
-**Please see Releases for download**
-**You can also find non-RTX versions of the client under releases**
 
-Did you play Gloom all those years ago? Reconnect to all the old boys from Gloom on our Discord server- 
-https://discord.gg/FFdfVWHFKV
 
-Many thanks to - 
+#### 💾  Please see Releases for download (You can also find non-RTX versions of the Gloom client under releases)
+
+
+🕷️  Did you play Gloom all those years ago? Jump on to our Gloom Discord server- 
+**https://discord.gg/FFdfVWHFKV**
+
+
+👋  Many thanks to - 
 * C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can view GloomRTX in action
 * Savvy
 * Bakerman84
@@ -29,4 +32,4 @@ More to come soon in line with Q2RTX 1.6
 
 ![quake091](https://user-images.githubusercontent.com/74773831/185341569-8067fe8a-373e-4e98-b4b0-9c33369e77ee.jpg)
 
-
+![image](https://user-images.githubusercontent.com/74773831/188766643-33cb41bb-368d-4405-952e-8f9102649214.png)
