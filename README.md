@@ -3,14 +3,13 @@
 **Welcome to GloomRTX v1.0 Test Release**
 
 File contains all you need to get up and running with the latest version of-
-Gloom - 1.G.01-mod  - including x64 DLL - by Savvy - https://github.com/savvykms
-LKQ2RTX - A mod focussed fork of Q2RTX  -  https://github.com/QuakeMM/LKQ2RTX-Forked
-Maps - The most recent collection of Gloom maps
-Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
+* Gloom - 1.G.01-mod  - including x64 DLL - by Savvy - https://github.com/savvykms
+* LKQ2RTX - A mod focussed fork of Q2RTX  -  https://github.com/QuakeMM/LKQ2RTX-Forked
+* Maps - The most recent collection of Gloom maps
+* Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
 
-*Please see Releases for download*
-
-*You can also find non-RTX versions of the client under releases*
+**Please see Releases for download**
+**You can also find non-RTX versions of the client under releases**
 
 Did you play Gloom all those years ago? Reconnect to all the old boys from Gloom on our Discord server- 
 https://discord.gg/FFdfVWHFKV
