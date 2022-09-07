@@ -9,7 +9,8 @@ Maps - The most recent collection of Gloom maps
 Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
 
 *Please see Releases for download*
-You can also find non-RTX versions of the client under releases
+
+*You can also find non-RTX versions of the client under releases*
 
 Did you play Gloom all those years ago? Reconnect to all the old boys from Gloom on our Discord server- 
 https://discord.gg/FFdfVWHFKV
