@@ -1,4 +1,4 @@
-### GloomRTX v1.0 Test Release
+### GloomRTX v1.0 Test Release - aka GloomRTX
 
 **Welcome to GloomRTX v1.0 Test Release**
 
