@@ -1,0 +1,6 @@
+textures/puffy/qmm_glass01:
+	texture_base textures/puffy/qmm_glass01.tga
+	texture_normals textures/puffy/qmm_glass01_n.tga
+	bump_scale 0.1
+	kind GLASS
+	base_factor 2.5
