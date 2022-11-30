@@ -1,0 +1,182 @@
+models/weapons/v_launch/skin:
+	texture_base models/weapons/v_launch/skin.tga
+	texture_normals models/weapons/v_launch/skin_n.tga
+	texture_emissive models/weapons/v_launch/skin_light.tga
+
+textures/gloom_master/conc/wconc:
+	texture_base textures/gloom_master/conc/wconc.tga
+	texture_normals textures/gloom_master/conc/wconc_n.tga
+
+textures/gloom_master/floor/plate_04:
+	texture_base textures/gloom_master/floor/plate_04.tga
+	texture_normals textures/gloom_master/floor/plate_04_n.tga
+
+textures/gloom_master/glass/glm_glass01:
+	texture_base textures/gloom_master/glass/glm_glass01.tga
+	texture_normals textures/gloom_master/glass/glm_glass01_n.tga
+	kind GLASS
+
+textures/gloom_master/base/girder01:
+	texture_base textures/gloom_master/base/girder01.tga
+	texture_normals textures/gloom_master/base/girder01_n.tga
+	texture_mask textures/gloom_master/base/girder01_mask.tga
+
+textures/gloom_master/conc/wconc-3:
+	texture_base textures/gloom_master/conc/wconc-3.tga
+	texture_normals textures/gloom_master/conc/wconc-3_n.tga
+
+models/objects/explode/skin:
+	texture_base models/objects/explode/skin.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/explode/skin1:
+	texture_base models/objects/explode/skin1.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/monsters/parasite/segment/skin:
+	texture_base models/monsters/parasite/segment/skin.pcx
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin1:
+	texture_base models/objects/r_explode/skin1.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin2:
+	texture_base models/objects/r_explode/skin2.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin3:
+	texture_base models/objects/r_explode/skin3.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin4:
+	texture_base models/objects/r_explode/skin4.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin5:
+	texture_base models/objects/r_explode/skin5.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin6:
+	texture_base models/objects/r_explode/skin6.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/r_explode/skin7:
+	texture_base models/objects/r_explode/skin7.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/objects/dmspot/skin:
+	texture_base models/objects/dmspot/skin.tga
+	texture_normals models/objects/dmspot/skin_n.tga
+
+models/objects/dmspot/skin2:
+	texture_base models/objects/dmspot/skin2.tga
+	texture_normals models/objects/dmspot/skin2_n.tga
+	texture_emissive models/objects/dmspot/skin2_light.tga
+
+models/objects/gibs/sm_meat/skin:
+	texture_base models/objects/gibs/sm_meat/skin.jpg
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/male/soldier:
+	texture_base players/male/soldier.tga
+	texture_normals players/male/soldier_n.tga
+
+players/hatch/skin:
+	texture_base players/hatch/skin.tga
+	texture_normals players/hatch/skin_n.tga
+
+players/hatch/kam:
+	texture_base players/hatch/kam.pcx
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/gibs/hatchling/leg/skin:
+	texture_base models/gibs/hatchling/leg/skin.pcx
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/hsold/hsold:
+	texture_base players/hsold/hsold.tga
+	texture_normals players/hsold/hsold_n.tga
+	texture_emissive players/hsold/hsold_light.tga
+
+players/drone/skin:
+	texture_base players/drone/skin.tga
+	texture_normals players/drone/skin_n.tga
+
+players/mech/skin:
+	texture_base players/mech/skin.tga
+	texture_normals players/mech/skin_n.tga
+
+players/stalker/skin:
+	texture_base players/stalker/skin.png
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+models/gibs/stalker/skin:
+	texture_base models/gibs/stalker/skin.png
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/breeder/skin:
+	texture_base players/breeder/skin.tga
+	texture_normals players/breeder/skin_n.tga
+
+players/engineer/skin:
+	texture_base players/engineer/skin.tga
+	texture_normals players/engineer/skin_n.tga
+	texture_emissive players/engineer/skin_light.tga
+
+players/guardian/skin:
+	texture_base players/guardian/skin.tga
+	texture_normals players/guardian/skin_n.tga
+
+models/gibs/guardian/skin:
+	texture_base models/gibs/guardian/skin.png
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/exterm/skin:
+	texture_base players/exterm/skin.tga
+	texture_normals players/exterm/skin_n.tga
+	texture_emissive players/exterm/skin_light.tga
+
+players/stinger/skin:
+	texture_base players/stinger/skin.tga
+	texture_normals players/stinger/skin_n.tga
+
+players/wraith/skin:
+	texture_base players/wraith/skin.png
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/wraith/weapon:
+	texture_base players/wraith/weapon.pcx
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
+players/female/bio:
+	texture_base players/female/bio.tga
+	texture_normals players/female/bio_n.tga
+
+models/objects/cocoon/skin:
+	texture_base models/objects/cocoon/skin.tga
+	texture_normals models/objects/cocoon/skin_n.tga
+
+players/male/weapon:
+	texture_base players/male/weapon.pcx
+	metalness_factor 0.000000
+	specular_factor 0.000000
+
