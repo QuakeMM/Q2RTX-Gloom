@@ -1,4 +1,0 @@
-textures/gloom_master/glass/glm_glass01:
-	texture_base textures/gloom_master/glass/glm_glass01.tga
-	texture_normals textures/gloom_master/glass/glm_glass01_n.tga
-	kind GLASS
