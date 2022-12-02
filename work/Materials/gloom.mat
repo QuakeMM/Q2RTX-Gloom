@@ -1,3 +1,46 @@
+textures/gloom_master/light/led_orange:
+	texture_base textures/gloom_master/light/led_orange.tga
+	texture_normals textures/gloom_master/light/led_orange_n.tga
+	texture_emissive textures/gloom_master/light/led_orange_light.tga
+	is_light 1
+	synth_emissive 1
+
+textures/gloom_master/light/led_blue:
+	texture_base textures/gloom_master/light/led_blue.tga
+	texture_normals textures/gloom_master/light/led_blue_n.tga
+	texture_emissive textures/gloom_master/light/led_blue_light.tga
+	is_light 1
+	synth_emissive 1
+
+textures/gloom_master/light/led_white:
+	texture_base textures/gloom_master/light/led_white.tga
+	texture_normals textures/gloom_master/light/led_white_n.tga
+	texture_emissive textures/gloom_master/light/led_white_light.tga
+	is_light 1
+	synth_emissive 1
+
+textures/gloom_master/light/led_green:
+	texture_base textures/gloom_master/light/led_green.tga
+	texture_normals textures/gloom_master/light/led_green_n.tga
+	texture_emissive textures/gloom_master/light/led_green_light.tga
+	is_light 1
+	synth_emissive 1
+
+textures/gloom_master/light/led_yellow:
+	texture_base textures/gloom_master/light/led_yellow.tga
+	texture_normals textures/gloom_master/light/led_yellow_n.tga
+	texture_emissive textures/gloom_master/light/led_yellow_light.tga
+	is_light 1
+	synth_emissive 1
+
+textures/gloom_master/light/led_red:
+	texture_base textures/gloom_master/light/led_red.tga
+	texture_normals textures/gloom_master/light/led_red_n.tga
+	texture_emissive textures/gloom_master/light/led_red_light.tga
+	is_light 1
+	synth_emissive 1
+
+
 models/weapons/v_launch/skin:
 	texture_base models/weapons/v_launch/skin.tga
 	texture_normals models/weapons/v_launch/skin_n.tga
@@ -20,6 +63,13 @@ textures/gloom_master/base/girder01:
 	texture_base textures/gloom_master/base/girder01.tga
 	texture_normals textures/gloom_master/base/girder01_n.tga
 	texture_mask textures/gloom_master/base/girder01_mask.tga
+	
+	
+textures/gloom_master/base/fence1:
+	texture_base textures/gloom_master/base/fence1.tga
+	texture_normals textures/gloom_master/base/fence1_n.tga
+	texture_mask textures/gloom_master/base/fence1_mask.tga
+	
 
 textures/gloom_master/conc/wconc-3:
 	texture_base textures/gloom_master/conc/wconc-3.tga
