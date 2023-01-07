@@ -8,13 +8,29 @@ File contains all you need to get up and running with the latest version of-
 * Maps - The most recent collection of Gloom maps
 * Textures/Models -  Updated textures, materials and model tweaks to benefit RTX
 
+#### 💾  DIRECT DOWNLOAD LINKS
 
+**💾 q2rtx-gloom-v1.zip**
+https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/q2rtx-gloom-v1.zip
+Single download that contains all you need to get up and running
+
+If you are looking for the original Gloom releases, there are:
+
+**💾 gloom-v13-basic.zip**
+Is a basic GLOOM folder ready to drop into your current Q2 setup - no client included
+https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/gloom-v13-basic.zip
+
+**💾 GloomLiteV2.2.zip**
+Is an original R1Q2/R1GL bundle of client and Gloom files
+https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/GloomLiteV2.2.zip
 
 #### 💾  Please see Releases for download (You can also find non-RTX versions of the Gloom client under releases)
 
 
-🕷️  Did you play Gloom all those years ago? Jump on to our Gloom Discord server- 
+### 🕷️  Did you play Gloom all those years ago? Jump on to our Gloom Discord server- 
 **https://discord.gg/FFdfVWHFKV**
+
+
 
 
 👋  Many thanks to - 
