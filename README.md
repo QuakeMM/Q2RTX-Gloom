@@ -24,10 +24,13 @@ https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/gloom-v13-basic.zip
 Is an original R1Q2/R1GL bundle of client and Gloom files
 https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/GloomLiteV2.2.zip
 
-#### 💾  Please see Releases for download (You can also find non-RTX versions of the Gloom client under releases)
+#### 💾  Please see Releases for additional downloads (You can also find non-RTX versions of the Gloom client under releases)
 
 ### 🕷️  Did you play Gloom all those years ago? Jump on to our Gloom Discord server- 
 **https://discord.gg/FFdfVWHFKV**
+
+![image](https://user-images.githubusercontent.com/74773831/213743444-37813893-818a-40b3-9935-6a01d633bc11.png)
+
 
 ### New Content - Jan 2023
 New mapping and texture content is still being worked on 20 years later.
