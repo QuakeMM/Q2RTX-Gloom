@@ -26,9 +26,22 @@ https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/GloomLiteV2.2.zip
 
 #### 💾  Please see Releases for download (You can also find non-RTX versions of the Gloom client under releases)
 
-
 ### 🕷️  Did you play Gloom all those years ago? Jump on to our Gloom Discord server- 
 **https://discord.gg/FFdfVWHFKV**
+
+### New Content - Jan 2023
+New mapping and texture content is still being worked on 20 years later.
+Some progress shots of the upcoming Seabase by BSPIT.
+
+![image](https://user-images.githubusercontent.com/74773831/213741836-23161c47-57fd-4004-822b-52fc81b0c4b8.png)
+
+![image](https://user-images.githubusercontent.com/74773831/213741896-3b8608e8-810b-419a-ab90-7cf43eadbca3.png)
+
+![image](https://user-images.githubusercontent.com/74773831/213741962-c23a6d36-fc86-4ed2-9416-70fda40d5d3a.png)
+
+![image](https://user-images.githubusercontent.com/74773831/213742087-6aa4cf75-2dd2-4787-82f7-351c1b08e783.png)
+
+![image](https://user-images.githubusercontent.com/74773831/213742249-ac1bbee8-9f0a-4e6f-ac14-b535aa624b87.png)
 
 
 
@@ -37,7 +50,8 @@ https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/GloomLiteV2.2.zip
 * C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can view GloomRTX in action
 * Savvy
 * Bakerman84
-* BSPIT, DD, OshKosh and others on Discord
+* R1ch
+* BSPIT, DD, OshKosh, Sadflask and others on Discord
 
 More to come soon in line with Q2RTX 1.6
 
