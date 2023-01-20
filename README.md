@@ -50,7 +50,7 @@ Some progress shots of the upcoming Seabase by BSPIT.
 * C01D1 - COIFISH GAMING  - https://www.youtube.com/coifishgaming where you can view GloomRTX in action
 * Savvy
 * Bakerman84
-* R1ch
+* R1ch - for the OG in Gloom - http://www.planetgloom.com/
 * BSPIT, DD, OshKosh, Sadflask and others on Discord
 
 More to come soon in line with Q2RTX 1.6
