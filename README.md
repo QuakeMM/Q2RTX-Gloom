@@ -32,6 +32,19 @@ https://github.com/QuakeMM/Q2RTX-Gloom/releases/download/1.0/GloomLiteV2.2.zip
 ![image](https://user-images.githubusercontent.com/74773831/213743444-37813893-818a-40b3-9935-6a01d633bc11.png)
 
 
+### New Content - Feb 2023
+More progress shots of the upcoming Seabase by BSPIT.
+
+![image](https://user-images.githubusercontent.com/74773831/218984895-bad963a8-a172-40fc-880b-bf46cec9442d.png)
+
+![image](https://user-images.githubusercontent.com/74773831/218984948-0ebeb9f1-9f50-47a3-92ae-c90fb8d9adc1.png =250x250)
+
+![image](https://user-images.githubusercontent.com/74773831/218985011-057be055-71e0-4922-9921-c256d804a847.png)
+
+![image](https://user-images.githubusercontent.com/74773831/218985201-2ae2c37c-e1a3-470c-874c-71ccd900f412.png)
+
+
+
 ### New Content - Jan 2023
 New mapping and texture content is still being worked on 20 years later.
 Some progress shots of the upcoming Seabase by BSPIT.
